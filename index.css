@@ -1,0 +1,28 @@
+body{
+    background-color: lightgray;
+}
+
+a{
+    text-decoration: none;
+    border-bottom: 2px solid rgb(40, 124, 233);
+}
+
+.fa{
+    color: rgb(40, 124, 233);
+}
+
+.box-center{
+    background-color: whitesmoke;
+    padding: 65px 10px;
+    margin: 35px 0px;
+}
+
+.text{
+    margin: 15px;
+}
+
+.box{
+    padding: 65px 0px;
+}
+
+        
